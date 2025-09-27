@@ -40,13 +40,12 @@ This project requires no special installation or dependencies.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-github-username/javascript-quiz-app.git](https://github.com/your-github-username/javascript-quiz-app.git)
+    git clone https://github.com/mohseenalihawaldar-dev/Quiz-game
     ```
-    *(Replace `your-github-username` and `javascript-quiz-app` with your details!)*
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd javascript-quiz-app
+    cd Quiz-game
     ```
 
 ---
